@@ -12,8 +12,6 @@
 
 :books: I’m currently learning NodeJS and Tests.
 
-:outbox_tray: 2022 Goals: find a job that can get me the opportunity to show my knowledge and contributions.
-
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dbombonate)](https://github.com/dbombonate)
@@ -23,3 +21,7 @@
 - Thanks for visiting.
 
 - Enjoy it!! o/
+
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbombonate)](https://github.com/dbombonate/github-readme-stats)
