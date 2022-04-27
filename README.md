@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning NodeJS and Tests.
+:books: I’m currently learning NodeJS and making some apps with it.
 
 ## About me
 
