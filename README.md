@@ -23,3 +23,7 @@
 - Enjoy it!! o/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbombonate&hide=contribs,prs&count_private=true)](https://github.com/dbombonate/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbombonate&layout=compact)](https://github.com/dbombonate/github-readme-stats)
+
+[![dbombonate's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dbombonate)](https://github.com/dbombonate/github-readme-stats)
