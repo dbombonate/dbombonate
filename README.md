@@ -22,8 +22,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbombonate&hide=contribs,prs&count_private=true)](https://github.com/dbombonate/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbombonate&layout=compact)](https://github.com/dbombonate/github-readme-stats)
 
-<code><img height= "20"src=https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white></code>
-<code><img height= "20"src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E></code>
+<code><img height="20" src=https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white></code>
+<code><img height="20" src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E></code>
 <code><img height= "20"src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white></code>
 <code><img height= "20"src=https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white></code>
 <code><img height= "20"src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white></code>
