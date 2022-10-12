@@ -6,11 +6,11 @@
 
  
 
-:computer: I'm Back-End Developer!
+:computer: I'm Back-End Developer and a SysAdmin / Devops Entusiast!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning NodeJS and making some apps with it.
+:books: I’m currently learning NodeJS and making some apps with it and in paralel doing some cool stufy using devops concepts!
 
 ## About me
 
