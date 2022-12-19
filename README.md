@@ -6,11 +6,11 @@
 
  
 
-:computer: I'm Back-End Developer and a SysAdmin / Devops Entusiast!
+:computer: I'm a SysAdmin / Infrastructure Engineer / Devops and a NodeJS enthusiast!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning NodeJS and making some apps with it and in paralel doing some cool stufy using devops concepts!
+:books: I’m currently learning Devops concepts and tools to increase my capability to support and provide new environments!
 
 ## About me
 
